@@ -1,5 +1,7 @@
 # Hi, I'm Nonso Jude Okeleke 👋
 
+[![Python portfolio checks](https://github.com/Nonso-Web/Nonso-Web-/actions/workflows/python-project-checks.yml/badge.svg)](https://github.com/Nonso-Web/Nonso-Web-/actions/workflows/python-project-checks.yml)
+
 **AI & Data Analytics | Civil & Water Engineering | Sustainability**
 
 I work across engineering, data analytics and emerging technologies, with an interest in using evidence-led approaches to address practical challenges in water resources, infrastructure, construction and sustainable development.
