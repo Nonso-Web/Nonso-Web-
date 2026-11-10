@@ -1,0 +1,121 @@
+record_id,financial_year,department,category,supplier,tender_method,contract_value_gbp,award_date,days_to_award,number_of_bids
+PR001,2022/2023,Environment,Consultancy,"Meridian Civic Ltd",Framework,19919,2022-08-12,18,8
+PR002,2022/2023,Water Services,IT equipment,"Brightpath Consulting Ltd",Direct award,27838,2022-03-23,31,1
+PR003,2022/2023,Digital Services,Waste services,"Cedarbridge Services Ltd",Open competition,35757,2022-10-07,44,6
+PR004,2022/2023,Public Facilities,Building repairs,"Oakfield Systems Ltd",Direct award,43676,2022-05-18,57,1
+PR005,2022/2023,Transport,Water infrastructure,"Westmoor Supplies Ltd",Open competition,51595,2022-12-02,70,4
+PR006,2022/2023,Environment,Water infrastructure,"Bluehaven Engineering Ltd",Framework,59514,2022-07-13,83,3
+PR007,2022/2023,Water Services,Road maintenance,"Riverstone Projects Ltd",Direct award,67433,2022-02-24,96,1
+PR008,2022/2023,Transport,Consultancy,"Northstar Works Ltd",Framework,75352,2022-09-08,109,1
+PR009,2022/2023,Environment,IT equipment,"Meridian Civic Ltd",Direct award,83271,2022-04-19,7,1
+PR010,2022/2023,Water Services,Waste services,"Westmoor Supplies Ltd",Open competition,91190,2022-11-03,20,7
+PR011,2022/2023,Digital Services,Building repairs,"Bluehaven Engineering Ltd",Framework,99109,2022-06-14,33,6
+PR012,2022/2023,Public Facilities,Building repairs,"Riverstone Projects Ltd",Open competition,107028,2022-01-25,46,5
+PR013,2022/2023,Transport,Water infrastructure,"Northstar Works Ltd",Framework,114947,2022-08-09,59,4
+PR014,2022/2023,Environment,Road maintenance,"Meridian Civic Ltd",Direct award,122866,2022-03-20,72,1
+PR015,2022/2023,Water Services,Consultancy,"Brightpath Consulting Ltd",Open competition,130785,2022-10-04,85,2
+PR016,2022/2023,Transport,IT equipment,"Cedarbridge Services Ltd",Direct award,138704,2022-05-15,98,1
+PR017,2022/2023,Environment,Waste services,"Oakfield Systems Ltd",Open competition,496623,2022-12-26,111,8
+PR018,2022/2023,Water Services,Waste services,"Westmoor Supplies Ltd",Framework,154542,2022-07-10,9,7
+PR019,2022/2023,Digital Services,Building repairs,"Bluehaven Engineering Ltd",Direct award,162461,2022-02-21,22,1
+PR020,2022/2023,Public Facilities,Water infrastructure,"Brightpath Consulting Ltd",Framework,170380,2022-09-05,35,5
+PR021,2022/2023,Transport,Road maintenance,"Cedarbridge Services Ltd",Direct award,178299,2022-04-16,48,1
+PR022,2022/2023,Environment,Consultancy,"Oakfield Systems Ltd",Open competition,186218,2022-11-27,61,3
+PR023,2022/2023,Water Services,IT equipment,"Westmoor Supplies Ltd",Framework,194137,2022-06-11,74,2
+PR024,2022/2023,Transport,IT equipment,"Bluehaven Engineering Ltd",Open competition,202056,2022-01-22,87,1
+PR025,2022/2023,Environment,Waste services,"Riverstone Projects Ltd",Framework,209975,2022-08-06,100,8
+PR026,2022/2023,Water Services,Building repairs,"Northstar Works Ltd",Direct award,217894,2022-03-17,113,1
+PR027,2022/2023,Digital Services,Water infrastructure,"Meridian Civic Ltd",Open competition,225813,2022-10-01,11,6
+PR028,2022/2023,Public Facilities,Road maintenance,"Brightpath Consulting Ltd",Direct award,233732,2022-05-12,24,1
+PR029,2022/2023,Transport,Consultancy,"Cedarbridge Services Ltd",Open competition,241651,2022-12-23,37,4
+PR030,2022/2023,Environment,Consultancy,"Riverstone Projects Ltd",Framework,249570,2022-07-07,50,3
+PR031,2023/2024,Water Services,IT equipment,"Northstar Works Ltd",Direct award,257489,2023-02-18,63,1
+PR032,2023/2024,Transport,Waste services,"Meridian Civic Ltd",Framework,265408,2023-09-02,76,1
+PR033,2023/2024,Environment,Building repairs,"Brightpath Consulting Ltd",Direct award,273327,2023-04-13,89,1
+PR034,2023/2024,Water Services,Water infrastructure,"Cedarbridge Services Ltd",Open competition,631246,2023-11-24,102,7
+PR035,2023/2024,Digital Services,Road maintenance,"Oakfield Systems Ltd",Framework,289165,2023-06-08,115,6
+PR036,2023/2024,Public Facilities,Road maintenance,"Westmoor Supplies Ltd",Open competition,297084,2023-01-19,13,5
+PR037,2023/2024,Transport,Consultancy,"Bluehaven Engineering Ltd",Framework,305003,2023-08-03,26,4
+PR038,2023/2024,Environment,IT equipment,"Riverstone Projects Ltd",Direct award,312922,2023-03-14,39,1
+PR039,2023/2024,Water Services,Waste services,"Northstar Works Ltd",Open competition,320841,2023-10-25,52,2
+PR040,2023/2024,Transport,Building repairs,"Oakfield Systems Ltd",Direct award,328760,2023-05-09,65,1
+PR041,2023/2024,Environment,Water infrastructure,"Westmoor Supplies Ltd",Open competition,336679,2023-12-20,78,8
+PR042,2023/2024,Water Services,Water infrastructure,"Bluehaven Engineering Ltd",Framework,344598,2023-07-04,91,7
+PR043,2023/2024,Digital Services,Road maintenance,"Riverstone Projects Ltd",Direct award,352517,2023-02-15,104,1
+PR044,2023/2024,Public Facilities,Consultancy,"Northstar Works Ltd",Framework,360436,2023-09-26,117,5
+PR045,2023/2024,Transport,IT equipment,"Meridian Civic Ltd",Direct award,368355,2023-04-10,15,1
+PR046,2023/2024,Environment,Waste services,"Brightpath Consulting Ltd",Open competition,376274,2023-11-21,28,3
+PR047,2023/2024,Water Services,Building repairs,"Cedarbridge Services Ltd",Framework,384193,2023-06-05,41,2
+PR048,2023/2024,Transport,Building repairs,"Oakfield Systems Ltd",Open competition,392112,2023-01-16,54,1
+PR049,2023/2024,Environment,Water infrastructure,"Westmoor Supplies Ltd",Framework,400031,2023-08-27,67,8
+PR050,2023/2024,Water Services,Road maintenance,"Meridian Civic Ltd",Direct award,407950,2023-03-11,80,1
+PR051,2023/2024,Digital Services,Consultancy,"Brightpath Consulting Ltd",Open competition,765869,2023-10-22,93,6
+PR052,2023/2024,Public Facilities,IT equipment,"Cedarbridge Services Ltd",Direct award,423788,2023-05-06,106,1
+PR053,2023/2024,Transport,Waste services,"Oakfield Systems Ltd",Open competition,431707,2023-12-17,119,4
+PR054,2023/2024,Environment,Waste services,"Westmoor Supplies Ltd",Framework,439626,2023-07-01,17,3
+PR055,2023/2024,Water Services,Building repairs,"Bluehaven Engineering Ltd",Direct award,447545,2023-02-12,30,1
+PR056,2023/2024,Transport,Water infrastructure,"Riverstone Projects Ltd",Framework,455464,2023-09-23,43,1
+PR057,2023/2024,Environment,Road maintenance,"Northstar Works Ltd",Direct award,463383,2023-04-07,56,1
+PR058,2023/2024,Water Services,Consultancy,"Meridian Civic Ltd",Open competition,471302,2023-11-18,69,7
+PR059,2023/2024,Digital Services,IT equipment,"Brightpath Consulting Ltd",Framework,479221,2023-06-02,82,6
+PR060,2023/2024,Public Facilities,IT equipment,"Bluehaven Engineering Ltd",Open competition,487140,2023-01-13,95,5
+PR061,2024/2025,Transport,Waste services,"Riverstone Projects Ltd",Framework,495059,2024-08-24,108,4
+PR062,2024/2025,Environment,Building repairs,"Northstar Works Ltd",Direct award,502978,2024-03-08,6,1
+PR063,2024/2025,Water Services,Water infrastructure,"Meridian Civic Ltd",Open competition,510897,2024-10-19,19,2
+PR064,2024/2025,Transport,Road maintenance,"Brightpath Consulting Ltd",Direct award,518816,2024-05-03,32,1
+PR065,2024/2025,Environment,Consultancy,"Cedarbridge Services Ltd",Open competition,526735,2024-12-14,45,8
+PR066,2024/2025,Water Services,Consultancy,"Oakfield Systems Ltd",Framework,534654,2024-07-25,58,7
+PR067,2024/2025,Digital Services,IT equipment,"Westmoor Supplies Ltd",Direct award,542573,2024-02-09,71,1
+PR068,2024/2025,Public Facilities,Waste services,"Bluehaven Engineering Ltd",Framework,900492,2024-09-20,84,5
+PR069,2024/2025,Transport,Building repairs,"Riverstone Projects Ltd",Direct award,558411,2024-04-04,97,1
+PR070,2024/2025,Environment,Water infrastructure,"Cedarbridge Services Ltd",Open competition,566330,2024-11-15,110,3
+PR071,2024/2025,Water Services,Road maintenance,"Oakfield Systems Ltd",Framework,574249,2024-06-26,8,2
+PR072,2024/2025,Transport,Road maintenance,"Westmoor Supplies Ltd",Open competition,582168,2024-01-10,21,1
+PR073,2024/2025,Environment,Consultancy,"Bluehaven Engineering Ltd",Framework,590087,2024-08-21,34,8
+PR074,2024/2025,Water Services,IT equipment,"Riverstone Projects Ltd",Direct award,598006,2024-03-05,47,1
+PR075,2024/2025,Digital Services,Waste services,"Northstar Works Ltd",Open competition,605925,2024-10-16,60,6
+PR076,2024/2025,Public Facilities,Building repairs,"Meridian Civic Ltd",Direct award,613844,2024-05-27,73,1
+PR077,2024/2025,Transport,Water infrastructure,"Brightpath Consulting Ltd",Open competition,621763,2024-12-11,86,4
+PR078,2024/2025,Environment,Water infrastructure,"Cedarbridge Services Ltd",Framework,629682,2024-07-22,99,3
+PR079,2024/2025,Water Services,Road maintenance,"Oakfield Systems Ltd",Direct award,637601,2024-02-06,112,1
+PR080,2024/2025,Transport,Consultancy,"Northstar Works Ltd",Framework,645520,2024-09-17,10,1
+PR081,2024/2025,Environment,IT equipment,"Meridian Civic Ltd",Direct award,653439,2024-04-01,23,1
+PR082,2024/2025,Water Services,Waste services,"Brightpath Consulting Ltd",Open competition,661358,2024-11-12,36,7
+PR083,2024/2025,Digital Services,Building repairs,"Cedarbridge Services Ltd",Framework,669277,2024-06-23,49,6
+PR084,2024/2025,Public Facilities,Building repairs,"Oakfield Systems Ltd",Open competition,677196,2024-01-07,62,5
+PR085,2024/2025,Transport,Water infrastructure,"Westmoor Supplies Ltd",Framework,1035115,2024-08-18,75,4
+PR086,2024/2025,Environment,Road maintenance,"Bluehaven Engineering Ltd",Direct award,693034,2024-03-02,88,1
+PR087,2024/2025,Water Services,Consultancy,"Riverstone Projects Ltd",Open competition,700953,2024-10-13,101,2
+PR088,2024/2025,Transport,IT equipment,"Northstar Works Ltd",Direct award,708872,2024-05-24,114,1
+PR089,2024/2025,Environment,Waste services,"Meridian Civic Ltd",Open competition,716791,2024-12-08,12,8
+PR090,2024/2025,Water Services,Waste services,"Westmoor Supplies Ltd",Framework,724710,2024-07-19,25,7
+PR091,2025/2026,Digital Services,Building repairs,"Bluehaven Engineering Ltd",Direct award,732629,2025-02-03,38,1
+PR092,2025/2026,Public Facilities,Water infrastructure,"Riverstone Projects Ltd",Framework,740548,2025-09-14,51,5
+PR093,2025/2026,Transport,Road maintenance,"Northstar Works Ltd",Direct award,748467,2025-04-25,64,1
+PR094,2025/2026,Environment,Consultancy,"Meridian Civic Ltd",Open competition,756386,2025-11-09,77,3
+PR095,2025/2026,Water Services,IT equipment,"Brightpath Consulting Ltd",Framework,764305,2025-06-20,90,2
+PR096,2025/2026,Transport,IT equipment,"Cedarbridge Services Ltd",Open competition,772224,2025-01-04,103,1
+PR097,2025/2026,Environment,Waste services,"Oakfield Systems Ltd",Framework,780143,2025-08-15,116,8
+PR098,2025/2026,Water Services,Building repairs,"Westmoor Supplies Ltd",Direct award,788062,2025-03-26,14,1
+PR099,2025/2026,Digital Services,Water infrastructure,"Bluehaven Engineering Ltd",Open competition,795981,2025-10-10,27,6
+PR100,2025/2026,Public Facilities,Road maintenance,"Brightpath Consulting Ltd",Direct award,803900,2025-05-21,40,1
+PR101,2025/2026,Transport,Consultancy,"Cedarbridge Services Ltd",Open competition,811819,2025-12-05,53,4
+PR102,2025/2026,Environment,Consultancy,"Oakfield Systems Ltd",Framework,1169738,2025-07-16,66,3
+PR103,2025/2026,Water Services,IT equipment,"Westmoor Supplies Ltd",Direct award,827657,2025-02-27,79,1
+PR104,2025/2026,Transport,Waste services,"Bluehaven Engineering Ltd",Framework,835576,2025-09-11,92,1
+PR105,2025/2026,Environment,Building repairs,"Riverstone Projects Ltd",Direct award,843495,2025-04-22,105,1
+PR106,2025/2026,Water Services,Water infrastructure,"Northstar Works Ltd",Open competition,851414,2025-11-06,118,7
+PR107,2025/2026,Digital Services,Road maintenance,"Meridian Civic Ltd",Framework,859333,2025-06-17,16,6
+PR108,2025/2026,Public Facilities,Road maintenance,"Brightpath Consulting Ltd",Open competition,17252,2025-01-01,29,5
+PR109,2025/2026,Transport,Consultancy,"Cedarbridge Services Ltd",Framework,25171,2025-08-12,42,4
+PR110,2025/2026,Environment,IT equipment,"Riverstone Projects Ltd",Direct award,33090,2025-03-23,55,1
+PR111,2025/2026,Water Services,Waste services,"Northstar Works Ltd",Open competition,41009,2025-10-07,68,2
+PR112,2025/2026,Transport,Building repairs,"Meridian Civic Ltd",Direct award,48928,2025-05-18,81,1
+PR113,2025/2026,Environment,Water infrastructure,"Brightpath Consulting Ltd",Open competition,56847,2025-12-02,94,8
+PR114,2025/2026,Water Services,Water infrastructure,"Cedarbridge Services Ltd",Framework,64766,2025-07-13,107,7
+PR115,2025/2026,Digital Services,Road maintenance,"Oakfield Systems Ltd",Direct award,72685,2025-02-24,5,1
+PR116,2025/2026,Public Facilities,Consultancy,"Westmoor Supplies Ltd",Framework,80604,2025-09-08,18,5
+PR117,2025/2026,Transport,IT equipment,"Bluehaven Engineering Ltd",Direct award,88523,2025-04-19,31,1
+PR118,2025/2026,Environment,Waste services,"Riverstone Projects Ltd",Open competition,96442,2025-11-03,44,3
+PR119,2025/2026,Water Services,Building repairs,"Northstar Works Ltd",Framework,454361,2025-06-14,57,2
+PR120,2025/2026,Transport,Building repairs,"Oakfield Systems Ltd",Open competition,112280,2025-01-25,70,1
