@@ -17,6 +17,10 @@ python src/train_model.py
 
 The script uses a stratified train/test split, a standardised logistic-regression baseline and reports accuracy, precision, recall, F1 and a confusion matrix. Outputs are saved in `outputs/`.
 
+## Example run (synthetic holdout)
+
+With the included generated dataset and fixed stratified 25% test split, the baseline produced accuracy **0.911**, precision **0.200**, recall **1.000** and F1 **0.333**. The high recall alongside low precision means many predicted failures were false positives in this particular test split. These metrics are not evidence of real-world pump-failure prediction capability.
+
 ## Important limitations
 
 - Synthetic data and rule-generated labels can produce misleadingly optimistic metrics.
