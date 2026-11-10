@@ -24,7 +24,16 @@ I hold an MSc in Applied Artificial Intelligence and Data Analytics from the Uni
 
 ## Portfolio projects
 
-I am developing practical, reproducible projects that connect engineering questions with data and computational methods. Project repositories will include source code, notebooks, documentation and datasets where appropriate. Any demonstration datasets will be clearly identified as synthetic; illustrative outputs should not be treated as field-validated or operational advice.
+I am developing practical, reproducible projects that connect engineering questions with data and computational methods. Each project folder includes source code, a notebook, documentation and a demonstration dataset where appropriate. Synthetic datasets are labelled clearly; outputs are not field-validated or operational advice.
+
+| Project | Focus |
+|---|---|
+| [Water Demand Forecasting](projects/water-demand-forecasting/) | Time-series features, baseline forecasting and model evaluation using synthetic demand data |
+| [Water Quality Monitoring](projects/water-quality-monitoring/) | Exploratory analysis of synthetic water-quality measurements with illustrative thresholds |
+| [Construction Carbon Estimator](projects/construction-carbon-estimator/) | Material quantities and illustrative emissions factors for a transparent carbon-estimation workflow |
+| [Infrastructure Incident Analytics](projects/infrastructure-incident-analytics/) | Incident trends, response and repair durations, and fictional coordinate analysis |
+| [Pump Failure Classification](projects/pump-failure-classification/) | Logistic-regression classification using synthetic pump sensor data |
+| [Public Spending Transparency](projects/public-spending-transparency/) | Procurement spend, supplier concentration and statistical review using fictional records |
 
 ## Education
 
